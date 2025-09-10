@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_bg_primary">#00070e</color>
+    <color name="color_bg_secondary">#00070d</color>
+    <color name="color_bg_tertiary">#00060d</color>
+
+    <color name="color_surface_dark">#101B24</color>
+    <color name="color_surface_medium">#020d17</color>
+    <color name="color_surface_soft">#152026</color>
+
+    <color name="color_overlay_dark">#020d16</color>
+    <color name="color_overlay_medium">#030e17</color>
+    <color name="color_overlay_soft">#020e16</color>
+    <color name="color_overlay_deep">#020e18</color>
+
+    <color name="color_text_accent">#FF4655</color>
+</resources>
